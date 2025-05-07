@@ -23,4 +23,4 @@ Getting Started
 3. Import the sample into Android Studio.
 4. Build and run the sample.
 
-![screenshot](F:\Meus%20Documentos\Desenvolvimento%20Android\Tip%20Calculator\screenshot.png)
+![screenshot](/screenshot.png)
